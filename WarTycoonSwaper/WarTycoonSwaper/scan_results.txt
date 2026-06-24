@@ -1,0 +1,13 @@
+# MCPR Structure Scan Results
+# Generated: 2026-06-07 20:14:39
+# Source: C:\Users\kotk\Desktop\2026_06_06_21_22_11.mcpr
+# Preset: Trial Chamber
+
+[Trial Chamber] 5 structure(s)
+  S1 | chunks=4 | min=(319,-37,-176) | max=(344,-19,-160) | center=(331,-28,-168) | size=(26x19x17) | blocks=chiseled_tuff,trial_spawner,tuff_bricks,vault
+  S2 | chunks=33 | min=(643,-53,32) | max=(735,10,151) | center=(689,-21,91) | size=(93x64x120) | blocks=chiseled_tuff,trial_spawner,tuff_bricks,vault
+  S3 | chunks=32 | min=(689,-40,-301) | max=(792,7,-192) | center=(740,-16,-246) | size=(104x48x110) | blocks=chiseled_tuff,trial_spawner,tuff_bricks,vault
+  S4 | chunks=30 | min=(1189,-48,-815) | max=(1304,2,-723) | center=(1246,-23,-769) | size=(116x51x93) | blocks=chiseled_tuff,copper_block,trial_spawner,tuff_bricks,vault
+  S5 | chunks=41 | min=(1216,-46,-354) | max=(1336,-5,-239) | center=(1276,-25,-296) | size=(121x42x116) | blocks=chiseled_tuff,copper_block,trial_spawner,tuff_bricks,vault
+
+# Total structures: 5
